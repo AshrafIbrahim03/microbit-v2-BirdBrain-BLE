@@ -1,6 +1,7 @@
 build
 codal-core
 codal-microbit-nrf5sdk
+.vscode
 codal-nrf52
 .yotta.json
 yotta_modules
